@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi! I'm Antonella Ríos 👋  
+### Junior Data Analyst | Python | SQL | Power BI | Machine Learning  
 
-<!--
-**antonellarios/antonellarios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Junior Data Analyst from Salta, Argentina, with strong foundations in  
+**Python, SQL, Statistics, Machine Learning, Data Quality and Business Intelligence**.  
 
-Here are some ideas to get you started:
+I'm currently studying a **Technical Degree in Data Science & Artificial Intelligence (UPATECO)**  
+and complementing my training with certifications from **Microsoft, IBM, Google, SAP and Oracle**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working on real-world data problems, building dashboards, improving data quality,  
+and developing end-to-end analytical workflows.
+
+---
+
+## 🔧 Tech & Tools
+- **Languages:** Python, SQL  
+- **Data Science:** Pandas, NumPy, Scikit-learn, PyAnnote  
+- **Visualization:** Power BI, Advanced Excel  
+- **Databases:** SQL Server, Oracle SQL  
+- **Tools:** Git, GitHub, Jupyter Notebook  
+- **Interests:** Machine Learning, Data Quality, ERP Cataloging (SAP/Softland)
+
+---
+
+## 📂 Portfolio (Updating)
+- 🟦 **Power BI – Retail Analysis**  
+- 🐍 **Python – Exploratory Data Analysis**  
+- 🗄️ **SQL – Inventory & Sales Reports**  
+- 🔧 **ETL – Data Cleaning & Standardization (ERP)**  
+- 🔊 **Machine Learning – Speaker Diarization with PyAnnote**
+
+More projects will be added soon with documentation and clean notebooks.
+
+---
+
+## 📫 Contact
+📍 Salta, Argentina  
+📧 **antonella.datasolutions@gmail.com**  
+🔗 **LinkedIn:** https://linkedin.com/in/antonellarios  
+
+
+---
+
+
+Soy una Analista de Datos Junior de Salta, Argentina, con formación en  
+**Python, SQL, Estadística, Machine Learning, Data Quality y Business Intelligence**.  
+Actualmente estudio la **Tecnicatura Universitaria en Ciencia de Datos e Inteligencia Artificial (UPATECO)**  
+y complementé mi formación con certificaciones de Microsoft, Google, IBM, SAP y Oracle.
+
+Me especializo en:
+- Análisis de datos
+- Limpieza y calidad de datos
+- ETL
+- Creación de dashboards
+- Modelado y documentación
+
+Busco oportunidades en roles de **Data Analyst Jr, Data Quality, ERP Cataloging, Power BI**  
+y posiciones relacionadas con datos o IT.
