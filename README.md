@@ -22,17 +22,6 @@ and developing end-to-end analytical workflows.
 
 ---
 
-## 📂 Portfolio (Updating)
-- 🟦 **Power BI – Retail Analysis**  
-- 🐍 **Python – Exploratory Data Analysis**  
-- 🗄️ **SQL – Inventory & Sales Reports**  
-- 🔧 **ETL – Data Cleaning & Standardization (ERP)**  
-- 🔊 **Machine Learning – Speaker Diarization with PyAnnote**
-
-More projects will be added soon with documentation and clean notebooks.
-
----
-
 ## 📫 Contact
 📍 Salta, Argentina  
 📧 **antonella.datasolutions@gmail.com**  
