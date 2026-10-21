@@ -1,29 +1,26 @@
 # Hi! I'm Antonella Ríos 👋
+**Junior Data Engineer | Data Quality & ETL Developer**
 
-**Junior Data Analyst | Python · SQL · Power BI · Machine Learning · Microsoft Fabric**
+I'm a Junior Data Engineer and Data Quality Developer based in Salta, Argentina. I build automated ETL/ELT pipelines, design relational data models, and implement data validation workflows with a strong focus on data consistency, performance, and schema integrity.
 
-I'm a Junior Data Analyst from Salta, Argentina, with strong foundations in Python, SQL, Statistics, Machine Learning, Data Quality and Business Intelligence.
-
-I'm currently studying a Technical Degree in Data Science & Artificial Intelligence (UPATecO) and complementing my training with certifications from Microsoft, IBM, Google, SAP and Oracle.
-
-I enjoy working on real-world data problems, building dashboards, improving data quality, and developing end-to-end analytical workflows.
+Currently studying a Technical Degree in Data Science & Applied AI (UPATecO) and advancing specialized training in Microsoft Azure Database Administration, complemented by certifications from Google, Microsoft, and Oracle.
 
 ---
 
-## 🔧 Tech & Tools
+### 🔧 Tech & Tools
 
-- **Languages:** Python · SQL
-- **Data Science:** Pandas · NumPy · Scikit-learn · PyTorch · PyAnnote
-- **Visualization:** Power BI · Matplotlib · Seaborn · Advanced Excel
-- **Cloud:** Microsoft Fabric (en formación) · Oracle Cloud OCI (en formación) · Google Cloud Platform (en formación)
-- **Databases:** SQL Server · Oracle SQL
-- **Tools:** Git · GitHub · Jupyter Notebook · Google Colab
-- **Interests:** Machine Learning · BI & Dashboards · Data Quality · Cloud Data Platforms
+- **Languages:** Python (Pandas, NumPy, automation scripts) · Advanced SQL (Window Functions, Subqueries, Query Optimization)
+- **Pipelines & ETL/ELT:** REST API Ingestion · Modular Pipeline Architecture · Data Modeling · Schema Normalization
+- **Data Quality & Testing:** Schema Validation · Referential Integrity · Anomaly & Duplicate Detection · Data Auditing for AI
+- **Databases & Cloud:** Microsoft Azure (Azure SQL, Storage Accounts) · SQL Server · PostgreSQL
+- **Data Science & ML Basics:** Scikit-Learn · Feature Engineering · Exploratory Data Analysis (EDA)
+- **Visualization & BI:** Power BI (DAX, Data Modeling) · Power Query · Matplotlib · Seaborn
+- **Version Control & Dev Tools:** Git · GitHub · Jupyter Notebook · Google Colab
 
 ---
 
-## 📫 Contact
+### 📬 Contact & Connect
 
-📍 Salta, Argentina
-📧 antonella.datasolutions@gmail.com
+📍 Salta, Argentina (Available for Remote roles)  
+📧 antonella.datasolutions@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/antonellarios)
